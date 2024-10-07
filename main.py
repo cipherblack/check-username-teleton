@@ -10,7 +10,7 @@ from telethon.tl.functions.account import CheckUsernameRequest
 api_id = 'api_id' # api-id 
 api_hash = 'api_hash'  # api-hash 
 phone_number = '+123456789'  # phon-number to login cli-bot
-input_file = r'file-name-for-usernames' # input file usernames
+input_file = r'file-name' # input file usernames
 output_file = 'available_usernames.json' # output file and read this after end program
 
 client = TelegramClient('username_bot', api_id, api_hash)
