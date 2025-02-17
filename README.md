@@ -1,4 +1,4 @@
-# check-username-teleton
+# check username with teleton
 
 ## Overview
 
